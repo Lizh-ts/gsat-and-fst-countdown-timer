@@ -1,4 +1,4 @@
-# gsat-and-fst-countdown-timer
+# 關於學測與分科倒數
 適用於各種情況直到教育政策正常
 
 這是在班上電腦執行
